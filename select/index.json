@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "醜悪",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-23T15:23:16.143977Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "醜悪",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_醜悪_月詠み.txt"
+    }
+  ]
+}
